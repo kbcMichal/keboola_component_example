@@ -1,0 +1,1 @@
+A sample component created with Cookiecutter template to be used for trainings and workshops
